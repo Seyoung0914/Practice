@@ -13,6 +13,11 @@ int main(){
             B = B+C;
             C = C-B;
         }
+
+        else if(B+C<60){
+            
+        }
+
         if(B<60) break;
     }
     
